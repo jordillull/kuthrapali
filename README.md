@@ -22,7 +22,9 @@ INPUT
 -----
 
 Read from standard input.
+
 First line specifies T, the number of test cases.
+
 Next T lines each gives 2 numbers, N and K
 
 OUTPUT
